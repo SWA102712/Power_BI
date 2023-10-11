@@ -1,1 +1,3 @@
 # Power_BI
+
+This is a Power BI Project with two CSV files developing the E-Commerce Sales Dashboard......
